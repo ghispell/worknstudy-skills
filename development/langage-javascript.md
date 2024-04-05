@@ -21,24 +21,25 @@ Fait référence à un objet d'une fonction
 ### Un exemple de code commenté ❌ / ✔️
 
 ```javascript
-/*
+/**
+* L'équation E = mc2 (lire « E égale m c carré » ou « E égale m c deux ») est une formule d'équivalence entre la masse et l'énergie, rendue célèbre par Albert Einstein dans une publication en 1905 sur la relativité restreinte.
 (e) => mc2;
 */
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
 [lien github](...)
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production  ✔️
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel  ✔️
 
 Description :
 
@@ -46,20 +47,10 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [W3School](https://www.w3schools.com/js/default.asp)
+- [Documentation de React](https://fr.react.dev/) 
 
-## 🚧 Je franchis les obstacles
-
-### Point de blocage ❌ / ✔️
-
-Description:
-
-Plan d'action : (à valider par le formateur)
-
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
 
 Résolution :
 
