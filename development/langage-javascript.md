@@ -6,10 +6,15 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+  Les plus courantes étant : les objets, les tableaux, les fonctions,
+  les chaînes de caractères (strings), les nombres, les booléens, undefined (variable sans valeur assignée) et null (absence intentionnelle de valeur). 
+- les normes `ecmascript` ✔️
+  L'évolution du language javascript depuis sa création en 1997 (actuellement en ES14)
+- l'utilisation de l'`asynchrone`  ✔️
+  Utiliser pour effectuer des opérations non bloquantes, telles que des requêtes réseau, des lectures/écritures de fichiers, ou des traitements longs. Async/await depuis ES6
+- les spécifités du mot-clef `this`✔️
+Fait référence à un objet d'une fonction
 
 ## 💻 Je code en Javascript
 
