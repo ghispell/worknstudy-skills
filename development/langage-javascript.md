@@ -21,7 +21,9 @@ Fait référence à un objet d'une fonction
 ### Un exemple de code commenté ❌ / ✔️
 
 ```javascript
+/*
 (e) => mc2;
+*/
 ```
 
 ### Utilisation dans un projet ❌ / ✔️
