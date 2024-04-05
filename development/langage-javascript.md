@@ -23,8 +23,8 @@ Fait référence à un objet d'une fonction
 ```javascript
 /**
 * L'équation E = mc2 (lire « E égale m c carré » ou « E égale m c deux ») est une formule d'équivalence entre la masse et l'énergie, rendue célèbre par Albert Einstein dans une publication en 1905 sur la relativité restreinte.
-(e) => mc2;
 */
+(e) => mc2;
 ```
 
 ### Utilisation dans un projet  ✔️
